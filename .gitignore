@@ -1,0 +1,23 @@
+# Game files (copyright - never commit)
+*.jsdos
+*.zip
+*.rar
+*.7z
+*.iso
+*.img
+*.exe
+game/
+roms/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Node (for any tooling)
+node_modules/
+package-lock.json
